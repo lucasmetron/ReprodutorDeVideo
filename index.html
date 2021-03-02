@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reprodutor de vídeo</title>
+    <link rel="icon" href="./assets/images/play.png">
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+    
+    
+    
+
+    <div class="conteiner" onmouseout="escondeBt()" onmouseover="apareceBt()">
+
+        <img style="width: 250px"  src="./assets/images/planetshakers-logo-2019-600px-rev.webp" alt="">
+
+        <video  loop  id="video" class="video" src="./assets/videos/planet.mp4" ></video>
+       
+        <div id="btControles" class="controle" >
+            <img id="play" class="bt " onclick="play()" src="./assets/images/play.png">
+            <img class="bt" onclick="parar()" src="./assets/images/parar.png">
+            <img class="bt" onclick="aumentarVel()" src="./assets/images/acelerar.png">
+            <img class="bt" onclick="diminuirVel()" src="./assets/images/desacelarar.png">
+            <img class="bt" onclick="avancar()"  src="./assets/images/avancar.png">
+            <img class="bt" onclick="voltar()" src="./assets/images/voltar.png">
+            <img class="bt" onclick="diminuirVol()" src="./assets/images/diminuirVol.png">
+            <img class="bt" onclick="aumentarVol()" src="./assets/images/aumentarVol.png">
+
+        </div>
+
+    </div>
+    
+    
+
+    <script src="./script.js"></script>
+</body>
+</html>
