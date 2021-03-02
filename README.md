@@ -1,6 +1,6 @@
 # Lista de Tarefas
 
-### - Nesta aplicação fiz uma simples lista de tarefas utilizando o conceito de Local Storage. Está propriedade permite realizar persistência de dados, sem utilizar banco de dados.   
+### - Nesta aplicação fiz um mini reprodutor de video manipulando a TAG video com JavaScript.  
 
 ### - Nesta aplicação foram usados as seguintes tecnologias:
 
@@ -8,11 +8,12 @@
 #### *CSS.
 #### *JavaScript
 
-### Front End para desktop
-![Tela inicial](images/desafio.gif)
+### - Os botões que foram criados são os seguintes: Play/Stop, Pause(volta pro inicio do vídeo), acelerar video, desacelarar vídeo, avançar 15 segundos no video, voltar 15 segundos no video, aumentar volume e abaixar volume.
 
-### Front End para celular
-#### Obs: Neste projeto não coloquei responsividade pois estava focado em aprender JavaScript e Local Storage
+### Front End para desktop
+![Tela inicial](./assests/images/mediaplayer.gif)
+
+
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
