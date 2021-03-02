@@ -11,7 +11,7 @@
 ### - Os botões que foram criados são os seguintes: Play/Stop, Pause(volta pro inicio do vídeo), acelerar video, desacelarar vídeo, avançar 15 segundos no video, voltar 15 segundos no video, aumentar volume e abaixar volume.
 
 ### Front End para desktop
-![Tela inicial](./assests/images/mediaplayer.gif)
+![Tela inicial](./assets/images/mediaplayer.gif)
 
 
 
