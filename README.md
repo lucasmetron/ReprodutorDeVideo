@@ -14,6 +14,7 @@
 ![Tela inicial](./assets/images/mediaplayer.gif)
 
 
+### Veja o projeto você mesmo! Acesse: https://modest-curran-80ab7c.netlify.app/
 
 
 ### Gostou do meu projeto? :D Entre em contato comigo! 
